@@ -1,5 +1,3 @@
-﻿using System;
-
 abstract class Weapon
 {
     public string WeaponName { get; set; }
